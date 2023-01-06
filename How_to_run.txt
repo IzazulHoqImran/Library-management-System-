@@ -1,0 +1,20 @@
+How to run this Library Management System Project
+
+1. Download and Unzip file on your local system copy library.
+2) Install dependency using pip:
+
+  pip install Django
+
+3) Go to 'src' directory:
+
+  run:
+
+  python manage.py makemigrations
+  python manage.py migrate
+  python manage.py runserver
+
+  Access server address in browser
+
+Admin login
+User name: User01
+Password :User123
